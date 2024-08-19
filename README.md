@@ -1,21 +1,21 @@
 
 # CHAMAS COMMUNITY BOT
 
-> :us: [En] This project **base** was developed using modern technologies to provide a robust and scalable Discord bot.
+>  [En] This project **base** was developed using modern technologies to provide a robust and scalable Discord bot.
 
-> :br: [pt-br] Este projeto **base** foi desenvolvido utilizando tecnologias modernas para fornecer um bot do Discord robusto e escalável.
+>  [pt-br] Este projeto **base** foi desenvolvido utilizando tecnologias modernas para fornecer um bot do Discord robusto e escalável.
 
-:us: [En] This bot was developed with a focus on performance and scalability, using the latest versions of popular libraries and frameworks.
+ [En] This bot was developed with a focus on performance and scalability, using the latest versions of popular libraries and frameworks.
 
-:br: [pt-br] Este bot foi desenvolvido com foco em desempenho e escalabilidade, utilizando as versões mais recentes de bibliotecas e frameworks populares.
+ [pt-br] Este bot foi desenvolvido com foco em desempenho e escalabilidade, utilizando as versões mais recentes de bibliotecas e frameworks populares.
 
-> :us: [En] [NodeJs](https://nodejs.org/en) version required: 20.12 or higher
+>  [En] [NodeJs](https://nodejs.org/en) version required: 20.12 or higher
 
-> :br: [pt-br] Versão do [NodeJs](https://nodejs.org/en) necessária: 20.12 ou superior
+>  [pt-br] Versão do [NodeJs](https://nodejs.org/en) necessária: 20.12 ou superior
 
 ## Instructions
 
-### :us: [En] Setup
+###  [En] Setup
 
 1. **Clone the repository**
     ```bash
@@ -39,7 +39,7 @@
     node .
     ```
 
-### :br: [pt-br] Configuração
+### [pt-br] Configuração
 
 1. **Clone o repositório**
     ```bash
@@ -86,13 +86,13 @@ O bot possui uma variedade de comandos que podem ser utilizados para diversas fu
 | /userinfo | /userinfo         | Exibe informações detalhadas sobre um usuário em um embed, incluindo botões interativos.    |
 
 
-### :us: [En] Technologies Used
+### [En] Technologies Used
 
 - Discord.js
 - Node.js
 - Gemini
 
-### :br: [pt-br] Tecnologias Utilizadas
+### [pt-br] Tecnologias Utilizadas
 
 - Discord.js
 - Node.js
@@ -100,7 +100,7 @@ O bot possui uma variedade de comandos que podem ser utilizados para diversas fu
 
 ## 📞 Contact / Contato
 
-:br: [pt-br]
+[pt-br]
 - GitHub: [meuNobre](https://github.com/meuNobre)
 - Email: miguelnobre0411@gmail.com
 - Discord: icloudsz
